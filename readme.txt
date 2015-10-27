@@ -12,9 +12,15 @@ It’s pretty simple really…
 • Save your settings as an sfb-file for later use or for sharing online
 • Choose the layout you want
 	o REALISTIC (Looks like a real Filterbank / not very printer friendly / slightly less readable)
-	o SCHEMATIC (More symbolic representation / easily printable / very readable)
+	o CLEAN (More symbolic representation / halfway between REALISTIC and SCHEMATIC / very readable)
+	o SCHEMATIC (Symbolic representation / easily printable / very readable)
 • Save your settings as an image and keep it in your project folder.
 And there you are… You don’t have to worry anymore about not remembering the settings you used in this or that project. Keep your presets organized without hassle…
+
+NEW IN V1.5
+• CLEAN-view
+• Connections (jack + midi) visible and connectable (right click on connectors)
+• Labels for connections
 
 THANKS!
 Thanks to Herman Gillis at Sherman for creating one of the most useful pieces of musical hardware ever conceived. The background for the interface was taken from the Filterbank 2 manual. – www.sherman.be
