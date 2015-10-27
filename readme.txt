@@ -28,5 +28,5 @@ Thanks to the genius known as g200kg for creating the little program called Knob
 Thanks to AZ for making the switch I used as a base to create the switch in the Filterbank Manager GUI. – bji.yukihotaru.com
 
 CONTACT ME
-Let me know what you think of this program…
+Let me know what you think of this little tool…
 www.couvertsmusic.com // robin@couvertsmusic.com
