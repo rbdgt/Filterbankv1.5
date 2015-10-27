@@ -20,7 +20,7 @@ And there you are… You don’t have to worry anymore about not remembering the set
 NEW IN V1.5
 • CLEAN-view
 • Connections (jack + midi) visible and connectable (right click on connectors)
-• Labels for connections
+• Ability to put labels on connections
 
 THANKS!
 Thanks to Herman Gillis at Sherman for creating one of the most useful pieces of musical hardware ever conceived. The background for the interface was taken from the Filterbank 2 manual. – www.sherman.be
