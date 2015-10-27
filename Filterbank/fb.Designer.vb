@@ -184,9 +184,9 @@ Partial Class fb
         '
         'rctImage
         '
-        Me.rctImage.Location = New System.Drawing.Point(0, 25)
+        Me.rctImage.Location = New System.Drawing.Point(0, 28)
         Me.rctImage.Name = "rctImage"
-        Me.rctImage.Size = New System.Drawing.Size(1293, 459)
+        Me.rctImage.Size = New System.Drawing.Size(1315, 471)
         Me.rctImage.Visible = False
         '
         'txtTitle
